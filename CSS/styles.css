@@ -138,3 +138,11 @@ body {
 .lightbox__button:focus {
   background-color: rgba(0, 0, 0, 0.5);
 }
+
+.gallery__item {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  list-style: none;
+}
